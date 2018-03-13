@@ -67,3 +67,5 @@ Insert these credentials into your ```index.js```, this will enable the Azure Bo
 Get ngrok up and running, by running the ngrok.exe and execute the command ```ngrok http 3978``` this will give you an external address.
 
 This new address you need to add into the Bot Service in Azure, to enable the integration between Azure Bot Service and Live Assist. 
+
+Now you are ready to login to Live Assist and get your bot setup!
